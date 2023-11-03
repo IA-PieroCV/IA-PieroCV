@@ -22,7 +22,11 @@ Welcome to my world of data, code, and innovation! 🌟
 ___
 
 ## 🛠️ Tech Stack
-The ~~almost~~ full list of the technologies I use for every day projects.
+The ~~almost~~ full list of the technologies I use for every day projects. The explanation is like:
+
+- Advanced 🚀: I worked in several personal and industrial projects. I can use and lead teams in this tech.
+- Intermediate 🧐: I worked in decent amount of personal and industrial projects. I can comfortable use this tech.
+- Emerging 🌱: I worked in some personal and industrial projects. I can comfortable use this tech on projects with spikes of learning.
 
 | Topic                            | Technologies                                               | Level              |
 |----------------------------------|------------------------------------------------------------|--------------------|
@@ -46,8 +50,8 @@ The ~~almost~~ full list of the technologies I use for every day projects.
 | 🌐**Backend Technologies**              | Technologies with Flask, FastAPI, and Uvicorn              | Intermediate 🧐    |
 |                                   | Migration technologies with Alembic                        | Intermediate 🧐    |
 |                                   | Caching technologies with Redis                           | Intermediate 🧐    |
-| ➕**Additional Skills**                | Cloud Computing with AWS and OCI                          | Emerging 🌱        |
-|                                   | MLOps with WandB, Hugging Faces, and ClearML               | Emerging 🌱        |
+| ➕**Additional Skills**                | Cloud Computing with AWS and OCI                          | Intermediate 🧐         |
+|                                   | MLOps with WandB, Hugging Faces, and ClearML               | Intermediate 🧐         |
 |                                   | Scientific Programming with MatLab                         | Emerging 🌱        |
 |                                   | Scrum Framework for Agile Methodology                      | Emerging 🌱        |
 
