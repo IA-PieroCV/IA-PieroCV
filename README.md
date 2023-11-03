@@ -10,13 +10,14 @@ Welcome to my world of data, code, and innovation! 🌟
 
 ___
 
-## Currently stuff
+## What's Going On Now?
 
 - 🔭 I'm currently working on freelancing projects.
 - 🌱 I'm currently learning CI/CD technologies (Dagger).
 - 👯 I'm looking to collaborate on Data and AI projects.
 - 🤔 I'm looking for help with Cloudflare and Network stuff.
-- 💬 Ask me about AI and how the AI will take our jobs in the next years (kidding).
+<br><br>
+- 💬 Ask me about AI ~~and how the AI will take our jobs in the next years~~.
 - 📫 How to reach me: Look at the bottom of this readme!
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I love music. Any music. Try me.
@@ -32,30 +33,30 @@ The ~~almost~~ full list of the technologies I use for every day projects. Expla
 
 | Topic                            | Technologies                                               | Level              |
 |----------------------------------|------------------------------------------------------------|--------------------|
-| 🐍**Python Programming**             | Functional and Object-Oriented Programming                | Advanced 🚀         |
-|                                   | Desktop User Interfaces                                     | Advanced 🚀         |
-|                                   | Application Testing                                        | Emerging 🌱        |
-| 🧪**Data Science and Data Analytics**  | Numpy, Pandas, Matplotlib, Seaborn, and Polars            | Advanced 🚀         |
-|                                   | ScikitLearn and XGBoost                                    | Advanced 🚀         |
-|                                   | Tensorflow, Pytorch, Keras Core, Lightning                | Advanced 🚀         |
-|                                   | SQL Databases                                              | Intermediate 🧐    |
-|                                   | PowerBI, Looker Studio                                     | Emerging 🌱        |
-| 👁‍🗨**Computer Vision**                  | OpenCV, Scikit-Image, Pillow                               | Advanced 🚀         |
-|                                   | Object Detection, Image Segmentation, Custom Image Models | Advanced 🚀         |
-|                                   | IP Camera Protocols, FFMPEG                               | Emerging 🌱        |
-| 🛠️**DevOps**                          | Containers with Docker and Docker Compose                 | Intermediate 🧐    |
-|                                   | Version Control with Git, Github, and Gitlab              | Intermediate 🧐    |
-|                                   | Clusters with Kubernetes                                   | Emerging 🌱        |
-|                                   | CI/CD with Github Actions and Dagger                       | Emerging 🌱        |
-| 🖼️**Frontend Technologies**             | HTML, CSS, Javascript, and Typescript                      | Intermediate 🧐    |
-|                                   | Frameworks with Vue3, React, and Astro                     | Emerging 🌱        |
-| 🌐**Backend Technologies**              | Technologies with Flask, FastAPI, and Uvicorn              | Intermediate 🧐    |
-|                                   | Migration technologies with Alembic                        | Intermediate 🧐    |
-|                                   | Caching technologies with Redis                           | Intermediate 🧐    |
-| ➕**Additional Skills**                | Cloud Computing with AWS and OCI                          | Intermediate 🧐         |
-|                                   | MLOps with WandB, Hugging Faces, and ClearML               | Intermediate 🧐         |
-|                                   | Scientific Programming with MatLab                         | Emerging 🌱        |
-|                                   | Scrum Framework for Agile Methodology                      | Emerging 🌱        |
+| 🐍**Python Programming**             | Functional and Object-Oriented Programming                | 🚀 Adv         |
+|                                   | Desktop User Interfaces                                     | 🚀 Adv         |
+|                                   | Application Testing                                        |   🌱 Emer       |
+| 🧪**Data Science and Data Analytics**  | Numpy, Pandas, Matplotlib, Seaborn, and Polars            | 🚀 Adv         |
+|                                   | ScikitLearn and XGBoost                                    | 🚀 Adv         |
+|                                   | Tensorflow, Pytorch, Keras Core, Lightning                | 🚀 Adv         |
+|                                   | SQL Databases                                              | 🧐 Int    |
+|                                   | PowerBI, Looker Studio                                     | 🌱 Emer        |
+| 👁‍🗨**Computer Vision**                  | OpenCV, Scikit-Image, Pillow                               | 🚀 Adv         |
+|                                   | Object Detection, Image Segmentation, Custom Image Models | 🚀 Adv         |
+|                                   | IP Camera Protocols, FFMPEG                               | 🌱 Emer        |
+| 🛠️**DevOps**                          | Containers with Docker and Docker Compose                 | 🧐 Int    |
+|                                   | Version Control with Git, Github, and Gitlab              | 🧐 Int    |
+|                                   | Clusters with Kubernetes                                   | 🌱 Emer        |
+|                                   | CI/CD with Github Actions and Dagger                       | 🌱 Emer        |
+| 🖼️**Frontend Technologies**             | HTML, CSS, Javascript, and Typescript                      | 🧐 Int    |
+|                                   | Frameworks with Vue3, React, and Astro                     | 🌱 Emer        |
+| 🌐**Backend Technologies**              | Technologies with Flask, FastAPI, and Uvicorn              | 🧐 Int    |
+|                                   | Migration technologies with Alembic                        | 🧐 Int    |
+|                                   | Caching technologies with Redis                           | 🧐 Int    |
+| ➕**Additional Skills**                | Cloud Computing with AWS and OCI                          | 🧐 Int         |
+|                                   | MLOps with WandB, Hugging Faces, and ClearML               | 🧐 Int         |
+|                                   | Scientific Programming with MatLab                         | 🌱 Emer        |
+|                                   | Scrum Framework for Agile Methodology                      | 🌱 Emer        |
 
 ___
 ## 🎨 Portfolio Projects
