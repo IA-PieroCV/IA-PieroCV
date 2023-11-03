@@ -26,51 +26,51 @@ The ~~almost~~ full list of the technologies I use for every day projects.
 
 | Topic                            | Technologies                                               | Level              |
 |----------------------------------|------------------------------------------------------------|--------------------|
-| Python Programming               | Functional and Object-Oriented Programming                | Advanced 🚀         |
+| 🐍**Python Programming**             | Functional and Object-Oriented Programming                | Advanced 🚀         |
 |                                   | Desktop User Interfaces                                     | Advanced 🚀         |
 |                                   | Application Testing                                        | Emerging 🌱        |
-| Data Science and Data Analytics  | Numpy, Pandas, Matplotlib, Seaborn, and Polars            | Advanced 🚀         |
+| 🧪**Data Science and Data Analytics**  | Numpy, Pandas, Matplotlib, Seaborn, and Polars            | Advanced 🚀         |
 |                                   | ScikitLearn and XGBoost                                    | Advanced 🚀         |
 |                                   | Tensorflow, Pytorch, Keras Core, Lightning                | Advanced 🚀         |
 |                                   | SQL Databases                                              | Intermediate 🧐    |
 |                                   | PowerBI, Looker Studio                                     | Emerging 🌱        |
-| Computer Vision                  | OpenCV, Scikit-Image, Pillow                               | Advanced 🚀         |
+| 👁‍🗨**Computer Vision**                  | OpenCV, Scikit-Image, Pillow                               | Advanced 🚀         |
 |                                   | Object Detection, Image Segmentation, Custom Image Models | Advanced 🚀         |
 |                                   | IP Camera Protocols, FFMPEG                               | Emerging 🌱        |
-| DevOps                           | Containers with Docker and Docker Compose                 | Intermediate 🧐    |
+| 🛠️**DevOps**                          | Containers with Docker and Docker Compose                 | Intermediate 🧐    |
 |                                   | Version Control with Git, Github, and Gitlab              | Intermediate 🧐    |
 |                                   | Clusters with Kubernetes                                   | Emerging 🌱        |
 |                                   | CI/CD with Github Actions and Dagger                       | Emerging 🌱        |
-| Frontend Technologies             | HTML, CSS, Javascript, and Typescript                      | Intermediate 🧐    |
+| 🖼️**Frontend Technologies**             | HTML, CSS, Javascript, and Typescript                      | Intermediate 🧐    |
 |                                   | Frameworks with Vue3, React, and Astro                     | Emerging 🌱        |
-| Backend Technologies              | Technologies with Flask, FastAPI, and Uvicorn              | Intermediate 🧐    |
+| 🌐**Backend Technologies**              | Technologies with Flask, FastAPI, and Uvicorn              | Intermediate 🧐    |
 |                                   | Migration technologies with Alembic                        | Intermediate 🧐    |
 |                                   | Caching technologies with Redis                           | Intermediate 🧐    |
-| Additional Skills                | Cloud Computing with AWS and OCI                          | Emerging 🌱        |
+| ➕**Additional Skills**                | Cloud Computing with AWS and OCI                          | Emerging 🌱        |
 |                                   | MLOps with WandB, Hugging Faces, and ClearML               | Emerging 🌱        |
 |                                   | Scientific Programming with MatLab                         | Emerging 🌱        |
 |                                   | Scrum Framework for Agile Methodology                      | Emerging 🌱        |
 
 ___
-### 🎨 Portfolio Projects
+## 🎨 Portfolio Projects
 
-#### 💼 Big Project: "Chatbot Resume"
+### 💼 Big Project: "Chatbot Resume"
 Experience a customized Chatbot Resume powered by Langchain for LLM pipeline development and a stack of cutting-edge technologies. Ask him anything about my professional and technical expertise!
 <p align="center">
 <strong>Test it here!</strong> <a href="#">Chatbot Resume</a>
 </p>
 
-#### 💡 Minor Projects
+### 💡 Minor Projects
 
-| Project                     | Try It Here                                         | Project Explanation                       | Technology                              |
+| Project                     | Try It                                          | Project Explanation                       | Technology                              |
 |-----------------------------|----------------------------------------------------|--------------------------------------------|-----------------------------------------|
-| Quote Generator             | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
-| Weather Data Analysis       | [Try it here!](#)                                   | [Project Explanation](#)                  | Data Analysis, Time Series Prediction  |
-| Currency Exchange Rate      | [Try it here!](#)                                   | [Project Explanation](#)                  | Data Analysis, Currency Conversion     |
-| News Sentiment Analysis     | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
-| Random Cat/Dog Image       | [Try it here!](#)                                   | [Project Explanation](#)                  | Computer Vision, Image Classification  |
-| Astronomy Picture of the Day| [Try it here!](#)                                   | [Project Explanation](#)                  | Astronomy, Image Analysis               |
-| Joke Classifier             | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
+| 📜 Quote Generator             | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
+| 🌦️ Weather Data Analysis       | [Try it here!](#)                                   | [Project Explanation](#)                  | Data Analysis, Time Series Prediction  |
+| 💱 Currency Exchange Rate      | [Try it here!](#)                                   | [Project Explanation](#)                  | Data Analysis, Currency Conversion     |
+| 📰 News Sentiment Analysis     | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
+| 🐱🐶 Random Cat/Dog Image       | [Try it here!](#)                                   | [Project Explanation](#)                  | Computer Vision, Image Classification  |
+| 🌌 Astronomy Picture of the Day| [Try it here!](#)                                   | [Project Explanation](#)                  | Astronomy, Image Analysis               |
+| 😂 Joke Classifier             | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
 ___
 
 
