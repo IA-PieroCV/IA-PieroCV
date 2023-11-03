@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="assets/profile.jpg" alt="Piero Casusol" width="80" height="80">
-  <style>
-  img{
-    border-radius: 50%;
+  <img src="assets/profile.jpg" alt="Piero Casusol" width="80" height="80" style="border-radius: 50%;
     object-fit: cover;
-    border: 5px solid black;
-  }    
-  </style>
+    border: 5px solid black;">
 </p>
 
 # Hi there! 👋 I'm Piero Alejandro Casusol Vargas
