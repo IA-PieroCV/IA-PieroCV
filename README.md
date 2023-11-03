@@ -8,7 +8,9 @@
 
 Welcome to my world of data, code, and innovation! 🌟
 
-### Currently stuff
+___
+
+## Currently stuff
 
 - 🔭 I'm currently working on freelancing projects.
 - 🌱 I'm currently learning CI/CD technologies (Dagger).
@@ -22,7 +24,7 @@ Welcome to my world of data, code, and innovation! 🌟
 ___
 
 ## 🛠️ Tech Stack
-The ~~almost~~ full list of the technologies I use for every day projects. The explanation is like:
+The ~~almost~~ full list of the technologies I use for every day projects. Explanation:
 
 - Advanced 🚀: I worked in several personal and industrial projects. I can use and lead teams in this tech.
 - Intermediate 🧐: I worked in decent amount of personal and industrial projects. I can comfortable use this tech.
