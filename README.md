@@ -31,32 +31,32 @@ The ~~almost~~ full list of the technologies I use for every day projects. Expla
 - Intermediate 🧐: I worked in decent amount of personal and industrial projects. I can comfortable use this tech.
 - Emerging 🌱: I worked in some personal and industrial projects. I can comfortable use this tech on projects with spikes of learning.
 
-| Topic                            | Technologies                                               | Level              |
+| Topic| Technologies | Level |
 |----------------------------------|------------------------------------------------------------|--------------------|
-| 🐍**Python Programming**             | Functional and Object-Oriented Programming                | 🚀 Adv         |
-|                                   | Desktop User Interfaces                                     | 🚀 Adv         |
-|                                   | Application Testing                                        |   🌱 Emer       |
-| 🧪**Data Science and Data Analytics**  | Numpy, Pandas, Matplotlib, Seaborn, and Polars            | 🚀 Adv         |
-|                                   | ScikitLearn and XGBoost                                    | 🚀 Adv         |
-|                                   | Tensorflow, Pytorch, Keras Core, Lightning                | 🚀 Adv         |
-|                                   | SQL Databases                                              | 🧐 Int    |
-|                                   | PowerBI, Looker Studio                                     | 🌱 Emer        |
-| 👁‍🗨**Computer Vision**                  | OpenCV, Scikit-Image, Pillow                               | 🚀 Adv         |
-|                                   | Object Detection, Image Segmentation, Custom Image Models | 🚀 Adv         |
-|                                   | IP Camera Protocols, FFMPEG                               | 🌱 Emer        |
-| 🛠️**DevOps**                          | Containers with Docker and Docker Compose                 | 🧐 Int    |
-|                                   | Version Control with Git, Github, and Gitlab              | 🧐 Int    |
-|                                   | Clusters with Kubernetes                                   | 🌱 Emer        |
-|                                   | CI/CD with Github Actions and Dagger                       | 🌱 Emer        |
-| 🖼️**Frontend Technologies**             | HTML, CSS, Javascript, and Typescript                      | 🧐 Int    |
-|                                   | Frameworks with Vue3, React, and Astro                     | 🌱 Emer        |
-| 🌐**Backend Technologies**              | Technologies with Flask, FastAPI, and Uvicorn              | 🧐 Int    |
-|                                   | Migration technologies with Alembic                        | 🧐 Int    |
-|                                   | Caching technologies with Redis                           | 🧐 Int    |
-| ➕**Additional Skills**                | Cloud Computing with AWS and OCI                          | 🧐 Int         |
-|                                   | MLOps with WandB, Hugging Faces, and ClearML               | 🧐 Int         |
-|                                   | Scientific Programming with MatLab                         | 🌱 Emer        |
-|                                   | Scrum Framework for Agile Methodology                      | 🌱 Emer        |
+| 🐍**Python Programming**|Functional and Object-Oriented Programming|🚀 Adv|
+||Desktop User Interfaces|🚀 Adv|
+||Application Testing|🌱 Emer|
+|🧪**Data Science and Data Analytics**|Numpy, Pandas, Matplotlib, Seaborn, and Polars|🚀 Adv|
+||ScikitLearn and XGBoost|🚀 Adv|
+||Tensorflow, Pytorch, Keras Core, Lightning|🚀 Adv|
+||SQL Databases|🧐 Int|
+||PowerBI, Looker Studio|🌱 Emer|
+|👁‍🗨**Computer Vision**|OpenCV, Scikit-Image, Pillow|🚀 Adv|
+||Object Detection, Image Segmentation, Custom Image Models|🚀 Adv|
+||IP Camera Protocols, FFMPEG|🌱 Emer|
+|🛠️**DevOps**|Containers with Docker and Docker Compose|🧐 Int|
+||Version Control with Git, Github, and Gitlab|🧐 Int|
+||Clusters with Kubernetes|🌱 Emer|
+||CI/CD with Github Actions and Dagger|🌱 Emer|
+|🖼️**Frontend Technologies**|HTML, CSS, Javascript, and Typescript|🧐 Int|
+||Frameworks with Vue3, React, and Astro|🌱 Emer|
+|🌐**Backend Technologies**|Technologies with Flask, FastAPI, and Uvicorn|🧐 Int|
+||Migration technologies with Alembic|🧐 Int|
+||Caching technologies with Redis|🧐 Int|
+|➕**Additional Skills**|Cloud Computing with AWS and OCI|🧐 Int|
+||MLOps with WandB, Hugging Faces, and ClearML|🧐 Int|
+||Scientific Programming with MatLab|🌱 Emer|
+||Scrum Framework for Agile Methodology|🌱 Emer|
 
 ___
 ## 🎨 Portfolio Projects
