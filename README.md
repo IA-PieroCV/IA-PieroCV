@@ -63,9 +63,14 @@ ___
 
 ### 💼 Big Project: "Chatbot Resume"
 Experience a customized Chatbot Resume powered by Langchain for LLM pipeline development and a stack of cutting-edge technologies. Ask him anything about my professional and technical expertise!
+
 <p align="center">
-<strong>Test it here!</strong> <a href="#">Chatbot Resume</a>
+<strong>Test it here!</strong> <a href="https://chat.openai.com/g/g-oK5Dh6p5x-pierocv-chat-resume">Chatbot Resume</a> (ChatGPT Plus required)
+<br>
+<strong>See the article here</strong> <a href="#">Description and Analysis</a>
 </p>
+
+*Disclaimer: During the development of this project, OpenAI announced [GPT's](https://openai.com/blog/introducing-gpts), so in order to save cloud resources, you can test the chatbot hosted with them instead of a custom chatbot. Read the article for comparisons and implementation details.*
 
 ### 💡 Minor Projects
 
