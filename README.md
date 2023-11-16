@@ -68,6 +68,8 @@ Experience a customized Chatbot Resume powered by Langchain for LLM pipeline dev
 <strong>Test it here!</strong> <a href="https://chat.openai.com/g/g-oK5Dh6p5x-pierocv-chat-resume">Chatbot Resume</a> (ChatGPT Plus required)
 <br>
 <strong>See the article here</strong> <a href="#">Description and Analysis</a>
+<br>
+See <a href="https://github.com/IA-PieroCV/chatresume-frontend">Frontend Repo here</a> and <a href="https://github.com/IA-PieroCV/chatresume-backend">Backend Repo here</a>
 </p>
 
 *Disclaimer: During the development of this project, OpenAI announced [GPT's](https://openai.com/blog/introducing-gpts), so in order to save cloud resources, you can test the chatbot hosted with them instead of a custom chatbot. Read the article for comparisons and implementation details.*
