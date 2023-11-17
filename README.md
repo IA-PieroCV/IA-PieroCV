@@ -73,19 +73,19 @@ Experience a customized Chatbot Resume powered by Langchain for LLM pipeline dev
 See <a href="https://github.com/IA-PieroCV/chatresume-frontend">Frontend Repo here</a> and <a href="https://github.com/IA-PieroCV/chatresume-backend">Backend Repo here</a>
 </p>
 
-*Important Disclaimer: During the development of this project, OpenAI announced [GPT's](https://openai.com/blog/introducing-gpts), so in order to save cloud resources, you can test the chatbot hosted a mock response redirecting to GPT's [here](https://chat.openai.com/g/g-oK5Dh6p5x-pierocv-chat-resume). Read the article for comparisons and implementation details.*
+**Important Disclaimer***: During the development of this project, OpenAI announced [GPT's](https://openai.com/blog/introducing-gpts), so in order to save cloud resources, you can test the chatbot hosted a mock response redirecting to GPT's [here](https://chat.openai.com/g/g-oK5Dh6p5x-pierocv-chat-resume). Read the article for comparisons and implementation details.*
 
 ### 💡 Minor Projects
 
 | Project                     | Try It                                          | Project Explanation                       | Technology                              |
 |-----------------------------|----------------------------------------------------|--------------------------------------------|-----------------------------------------|
-| 📜 Quote Generator             | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
-| 🌦️ Weather Data Analysis       | [Try it here!](#)                                   | [Project Explanation](#)                  | Data Analysis, Time Series Prediction  |
-| 💱 Currency Exchange Rate      | [Try it here!](#)                                   | [Project Explanation](#)                  | Data Analysis, Currency Conversion     |
-| 📰 News Sentiment Analysis     | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
-| 🐱🐶 Random Cat/Dog Image       | [Try it here!](#)                                   | [Project Explanation](#)                  | Computer Vision, Image Classification  |
-| 🌌 Astronomy Picture of the Day| [Try it here!](#)                                   | [Project Explanation](#)                  | Astronomy, Image Analysis               |
-| 😂 Joke Classifier             | [Try it here!](#)                                   | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
+| 📜 Quote Generator             | [Try it here!](*#*) (Soon)                                  | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
+| 🌦️ Weather Data Analysis       | [Try it here!](#) (Soon)                                    | [Project Explanation](#)                  | Data Analysis, Time Series Prediction  |
+| 💱 Currency Exchange Rate      | [Try it here!](#)  (Soon)                                   | [Project Explanation](#)                  | Data Analysis, Currency Conversion     |
+| 📰 News Sentiment Analysis     | [Try it here!](#)    (Soon)                                 | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
+| 🐱🐶 Random Cat/Dog Image       | [Try it here!](#)  (Soon)                                   | [Project Explanation](#)                  | Computer Vision, Image Classification  |
+| 🌌 Astronomy Picture of the Day| [Try it here!](#)    (Soon)                                 | [Project Explanation](#)                  | Astronomy, Image Analysis               |
+| 😂 Joke Classifier             | [Try it here!](#)   (Soon)                                  | [Project Explanation](#)                  | Natural Language Processing (NLP)     |
 ___
 
 
