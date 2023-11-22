@@ -67,7 +67,7 @@ Experience a customized Chatbot Resume powered by Langchain for LLM pipeline dev
 <p align="center">
 <strong>Test it <a href="https://chatapp.intautomation.net">here!</a></strong>
 <br>
-<strong>See the article <a href="#">here!</a></strong>
+<strong>See the article <a href="https://medium.com/@piero.casusolv/implementing-rag-with-vue3-fastapi-and-qdrant-and-how-is-this-compared-to-openai-gpts-afa5d5e8d08f">here!</a></strong>
 <br>
 <br>
 See <a href="https://github.com/IA-PieroCV/chatresume-frontend">Frontend Repo here</a> and <a href="https://github.com/IA-PieroCV/chatresume-backend">Backend Repo here</a>
